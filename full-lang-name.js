@@ -1,6 +1,6 @@
 function getFullLangName(lang){
 
-  switch (lang.toLowevCase()) {
+  switch (lang.toLowerCase()) {
       case 'af':      return 'Afrikaans'; 
       case 'sq':      return 'Albanian'; 
       case 'am':      return 'Amharic'; 
